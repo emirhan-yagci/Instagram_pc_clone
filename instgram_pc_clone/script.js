@@ -299,7 +299,7 @@ postBack.addEventListener("click",()=>{
 /*POST TEXT AREA SHOW MAX LENGT*/
 
 
-postTextArea.addEventListener("keypress",()=>{
+postTextArea.addEventListener("input",()=>{
     let length = postTextArea.value.length;
     showChecker.innerHTML = length; 
 })

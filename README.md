@@ -1,5 +1,5 @@
-# Instgram_pc_clone
-Instgram pc clone(dynamic). HTML,CSS,JAVASCRIPT(VANILLA)
+# Instagram_pc_clone
+Instagram pc clone(dynamic). HTML,CSS,JAVASCRIPT(VANILLA)
 
 
 
